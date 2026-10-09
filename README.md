@@ -1,5 +1,7 @@
 # 🌐 Apis-Studies
 
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZraW1yMTBkbXh5dWJkY212OWRraG9vYzlqZGQxNW44cWFpOWprMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DjuXSRQ9PYkqvL3DAK/giphy.gif) 
+
 Repository with my studies on **APIs with Python**. Here I keep notes, exercises, and small projects while I learn to consume and create APIs.
 
 ## Roadmap
