@@ -1,1 +1,32 @@
-# Teste
+# 🌐 Apis-Studies
+
+Repository with my studies on **APIs with Python**. Here I keep notes, exercises, and small projects while I learn to consume and create APIs.
+
+## Roadmap
+
+-  **Requests** 
+  - Installation and introduction to REST APIs
+  - HTTP methods: GET, POST, PUT, and DELETE
+  -  Query params, headers, and cookies
+  - Timeout, retry, and best practices
+  -  Mini project: weather app
+  -  Authentication (basic and digest)
+  -------------------------------------
+-  **FastAPI** 
+  -  Routes and CRUD
+  - Database integration
+  - Authentication and testing
+  - Docker and deployment
+
+## Study Material
+
+| Topic | Source |
+|-------|--------|
+| requests | Playlist *Python Requests Library - Complete End to End* (StatLearn Tech) |
+| FastAPI | *FastAPI do Zero* (Eduardo Mendes) |
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-HTTP-blue?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
