@@ -27,7 +27,7 @@ Repositório com meus estudos de **APIs com Python**. Aqui eu guardo anotações
 
 | Tema | Fonte |
 |------|-------|
-| requests | Playlist *Python Requests Library - Complete End to End* (StatLearn Tech) |
+| requests | Quickstart docs |
 | FastAPI | *FastAPI do Zero* (Eduardo Mendes) |
 
 ## 🛠️ Tecnologias
