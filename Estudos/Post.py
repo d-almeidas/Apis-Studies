@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 load_dotenv()
 token = os.getenv("GOREST_TOKEN")
 infos = {
-    "name": "Daniel",
-    "email": "danielexemplo_12342423@xample.com", 
-    "gender": "male",
+    "name": "Amanda",
+    "email": "Aman@example.com", 
+    "gender": "Female",
     "status": "active",
 }
 
